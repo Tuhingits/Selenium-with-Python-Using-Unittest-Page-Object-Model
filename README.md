@@ -3,14 +3,7 @@ This repository provides a comprehensive example of using Selenium with Python, 
 
 ## Table of Contents
 - Introduction
-- Installation
-- Usage
-- Folder Structure
-- Writing Tests
-- Data-Driven Testing
-- Reporting
-- Contributing
-- License
+
 
 ## Introduction
 The aim of this project is to demonstrate how to use Selenium with Python and the Unittest framework to write robust and scalable automated tests. The tests are organized using the Page Object Model design pattern, which promotes reusability and maintainability by encapsulating the functionality of each page into separate classes.
