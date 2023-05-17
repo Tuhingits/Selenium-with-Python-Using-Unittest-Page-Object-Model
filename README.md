@@ -1,4 +1,4 @@
-# Selenium-with-Python-Using-Unittest-Page-Object-Model And data driven Testing
+# Automated a login module using selenium python with page object model and data driven testing
 This repository provides a comprehensive example of using Selenium with Python, implementing the Page Object Model (POM) design pattern and data-driven testing. The POM approach helps create reusable and maintainable test code, while data-driven testing enables executing tests with different sets of input data.
 
 ## Table of Contents
